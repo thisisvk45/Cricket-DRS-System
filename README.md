@@ -80,8 +80,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Author: Bappy Ahmed
-Email: bappymalik4161@gmail.com
+Author: Vikas Kumar
+email : Vikas.kumar1@plaksha.edu.in
 
 ---
 
